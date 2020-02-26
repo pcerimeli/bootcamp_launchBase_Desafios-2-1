@@ -14,7 +14,8 @@ Link que deve apontar para o convite da comunidade aberta da rocketseat (https:/
  Link que deve chamar o comando de enviar email para o destinatário
  oi@rocketseat.com.br. Dica: utilize o comando mailto dentro do href;
 
-## Telefone: Link que deve chamar o comando de realizar uma ligação para o número 
+## Telefone: 
+Link que deve chamar o comando de realizar uma ligação para o número 
 +5547992078767. Dica: utilize o comando tel dentro do href;
 
 ## Estilização
